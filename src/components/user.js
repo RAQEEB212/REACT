@@ -6,7 +6,7 @@ const user = {
 export function Profile() {
   return (
     <>
-      <h1>{user.name}</h1>
+      {/* <h1>{user.name}</h1>
       <img
         className="avatar"
         src={user.imageUrl}
@@ -14,7 +14,7 @@ export function Profile() {
         style={{
           width: user.imageSize,
           height: user.imageSize,
-        }}
+        }} */}
       />
     </>
   );
