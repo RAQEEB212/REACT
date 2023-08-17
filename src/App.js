@@ -2,6 +2,8 @@ import { Profile } from "./components/user";
 import { ShoppingList } from "./components/list";
 import { Pprofile } from "./components/pprofile";
 import { useState } from "react";
+import { renderingg } from "./components/rendering";
+import FunctionClick from "./components/function";
 
 function Button() {
   return <button>I'm a button</button>;
@@ -18,6 +20,9 @@ export default function Myapp() {
       <ShoppingList />
       <Pprofile />
       {loggedIn && <Pprofile />}
+      <renderingg / >
+        <FunctionClick />
+      
     </>
   );
 }
