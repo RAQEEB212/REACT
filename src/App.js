@@ -24,7 +24,8 @@ export default function Myapp() {
       <renderingg / >
         <FunctionClick />
         <ButtonCounts />
-      
+        <ButtonCounts />
+
       
     </>
   );
