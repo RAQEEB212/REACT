@@ -23,8 +23,8 @@ export default function Myapp() {
       {loggedIn && <Pprofile />}
       <renderingg / >
         <FunctionClick />
-        <ButtonCounts />
-        <ButtonCounts />
+
+
 
       
     </>
