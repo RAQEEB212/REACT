@@ -25,6 +25,7 @@ export default function Myapp() {
         <FunctionClick />
         <ButtonCounts/>
         <ButtonCounts/>
+        <ButtonCounts/>
       
       
     </>
